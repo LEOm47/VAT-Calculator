@@ -10,6 +10,7 @@ double netSP;
 double vat2;
 double SPwVAT;
 
+System.out.println("WELCOME");
     net = 9.99;
     vat = 0.23;
         System.out.println("Net Price for 1 Product ---------> " + net +"$");
